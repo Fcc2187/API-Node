@@ -1,9 +1,5 @@
 # ⚙️ API CRUD de Usuários - Node.js & MySQL
 
-<div align="center">
-  <img width="200" alt="Logo do Node.js, Express e MySQL" src="https://github.com/user-attachments/assets/b8b80159-f242-4f9a-8b84-3c66f54c9d53" />
-</div>
-
 ## 📄 Sobre o Projeto
 
 Este é o projeto de uma **API RESTful** simples construída com Node.js, Express e um banco de dados MySQL.
